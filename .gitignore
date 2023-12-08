@@ -1,0 +1,19 @@
+# Ignore compiled Python files
+python/__pycache__/
+
+# Ignore Neutrino direectory
+Neutrino/
+
+# Ignore samples 
+samples/
+
+# Ignore training outputs
+Training/store/
+
+# Ignore training logging
+wandb/
+
+tests/*.root
+tests/*.pkl
+
+
